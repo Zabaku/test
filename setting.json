@@ -1,0 +1,58 @@
+{
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "changePictureProfile": false,
+    "restartPoint": null,
+    "autoAdd": {
+        "status": false,
+        "message": "\u0e23\u0e31\u0e19\u0e21\u0e32\u0e40\u0e25\u0e22!!\u0e40\u0e2d\u0e32\u0e04\u0e37\u0e19\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e23\u0e49\u0e2d\u0e07",
+        "reply": false
+    },
+    "autoRead": true,
+    "autoRespond": {
+        "status": false,
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Hello World"
+    },
+    "autoRespondMention": {
+        "status": false,
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Hello World"
+    },
+    "checkSticker": false,
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "checkContact": false,
+    "changeGroupPicture": [],
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404",
+    "autoJoin": {
+        "ticket": true,
+        "status": false,
+        "reply": true,
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Hello World"
+    },
+    "greet": {
+        "join": {
+            "status": false,
+            "message": "Hello @!, welcome to group {name}"
+        },
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        }
+    },
+    "myProfile": {
+        "pictureStatus": "0h3FCFs4-XbGl-P0aUSrgTPkJ6YgQJEWohBl4iBltoYlpSByo3EVkqCFhoYVoGWyo9EFohWls-Zl9S",
+        "videoProfile": null,
+        "coverStatus": "",
+        "coverId": "dd21d8bce40e7b5d12c34481a5182bf8",
+        "displayName": "\ud83c\udf38ShoMeleodas!\ud83c\udf38",
+        "statusMessage": "\u0e42\u0e1b\u0e49\u0e07!!\u0e41\u0e15\u0e01!!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ud83d\udd1d\u10d7\u0e33\u04a8\u042e\u0e31\u03a9\u2113\u04a8\u0e35\u0e49\u09a7\ud83d\udd1d\n\u2725\u3055\u09a3\u0639s\u0e31\u044e\u27b6\u10d7\u0e33\u04a8\u042e\u0e31\u03a9\u2113\u04a8\u0e35\u0e49\u09a7\u2605\n\u272f\u0ec4\u0bee\u0e48\u10d7\u0e49\u274d\u098f\u0bee\u0e35\u3056\u0e31\u098f\u0ba8\u0e31\u0b9e\u272f\n\ua9c1\u0b23\u0e49\u09a3\u09a5\u0e31\u0b9e\u0ba8\u0e47\u098f\u0e31\u0b9e\u0ec4\u0b9e\u0e49\ua9c2"
+    },
+    "checkPost": false,
+    "changeCoverProfile": false,
+    "setKey": {
+        "status": false,
+        "key": "/"
+    }
+}
